@@ -9,6 +9,6 @@
 - Check that file can run without an ERROR
 
 LINKS:
-- [GITHUB](https://github.com/phurits/)
-- [Youtube](www.youtube.com)
-- [Google](www.google.com)
+- [GitHub](https://github.com/phurits/)
+- [Youtube](https://www.youtube.com/)
+- [Google](https://www.google.com/)
