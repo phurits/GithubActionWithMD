@@ -8,4 +8,4 @@
 LINKS:
 - [GitHub](https://github.com/phurits/)
 - [Youtube](https://www.youtube.com/)
-- [Google](www.google.com)
+- [Google](https://www.google.com/)
